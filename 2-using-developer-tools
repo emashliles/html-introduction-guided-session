@@ -1,0 +1,17 @@
+# Developer Tools
+
+In this session we will use the inbuilt developer tools to inspect and edit real websites. 
+
+## Step 1
+
+Go to [example.com] (example.com). 
+
+## Step 2 
+
+Open the developer tools on your browser. In chrome, you can do this by right clicking on the webpage body and choosing
+the "Inspect" or "Inspect Element" option. Once you do this, you should be able to see the page's code. 
+
+## Step 3
+
+Carefully read the code that is between the <body> tags. Even better, read it out loud to someone - even the punctuation 
+marks. 
