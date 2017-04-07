@@ -40,4 +40,38 @@ Move your mouse onto the image in the centre, where you should see the word figu
 
 Click the image. A box should appear at the bottom of the page with some code inside it. 
 
-Change the word "fox" to "bird" and you should see the image change. 
+Change the word "fox" to "bird" and you should see the image change.
+
+Congratulations - you just editied some code! 
+
+Keep going though - change the word "dino" to "fox".
+
+To stop editing the image, click the green update button.
+
+## Step 4 
+
+We are now going to edit some text. 
+
+Move your mouse over the text at the top of the page until you see the word "div" in the corner, and click when you can see it. 
+
+The following code should appear in the editing box. 
+
+```
+<div class="remix-me">
+  <h1>What's my name?</h1>
+  <p>
+    This tutorial walks you through a mix-and-match game to learn about the key features of X-Ray Goggles. With
+    X-Ray Goggles activated, you can change the text and switch out the different dino, fox, and bird sections to
+    create a new web page featuring your own animal friend.
+  </p>
+</div>
+```
+
+Edit the text between <h1> and </h1> to name the animal you have created with images, taking great care not to remove the angle brackets ("<" and ">").
+
+Edit the between <p> and </p> to give a one sentence bio for your creature.
+
+(If you are stuck for ideas, favorite food is a good one.) 
+
+Congratulations! You edited your first web page! Well done.
+
