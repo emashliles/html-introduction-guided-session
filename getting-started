@@ -1,0 +1,26 @@
+# Introduction
+
+In this session we will be looking at the code behind webpages, editing that code and seeing what changes. 
+
+## Step 1
+
+Open the [Mozilla X-Ray Goggles](https://goggles.mozilla.org) page in a new tab.
+
+You can either right click the link and select open in a new tab, or copy the link below. 
+
+```
+goggles.mozilla.org
+```
+
+## Step 2 
+
+Install Goggles by dragging the pink bar onto your bookmarks bar. You can open the bookmarks bar by selecting the 
+"Show Bookmarks Bar" in the chrome browser menu or by pressing "command - shift- b" on the keyboard.
+
+You should see "X-Ray Goggles" appear as a link on your bookmarks bar.
+
+You can test it is installed correctly by opening a new tab, navigating to [example.com](example.com) and clicking the 
+X-Ray Goggles link. 
+
+If it is correctly installed, you should see brighly coloured boxes appear as you move your mouse around.
+
