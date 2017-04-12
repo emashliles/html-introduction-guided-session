@@ -4,7 +4,7 @@ In this session we will use the inbuilt developer tools to inspect and edit real
 
 ## Step 1
 
-Go to [example.com] (example.com). 
+Go to [example.com](example.com). 
 
 ## Step 2 
 
