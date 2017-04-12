@@ -13,7 +13,7 @@ the "Inspect" or "Inspect Element" option. Once you do this, you should be able 
 
 ## Step 3
 
-Carefully read the code that is between the <body> tags. Even better, read it out loud to someone - even the punctuation 
+Carefully read the code that is between the `<body>` tags. Even better, read it out loud to someone - even the punctuation 
 marks. 
 
 ## Step 4 
@@ -22,7 +22,7 @@ We are going to edit the title of the webpage.
 
 Don't be concrned about this, it will only affect the website on your machine. 
 
-Double click the text between the <h1> tags. 
+Double click the text between the `<h1>` tags. 
 
 When you see the text appear inside a box, start typing the new title inside this box then press enter. (If you
 are stuck for a title try "Hello, World.")
@@ -56,8 +56,4 @@ Change the code so it links to another website. It is important to include the "
 Click the link to check it works.
 
 Congratualtions, you just edited code using real life developer tools. 
-
-
-
-
 
