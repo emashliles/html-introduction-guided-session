@@ -67,9 +67,9 @@ The following code should appear in the editing box.
 </div>
 ```
 
-Edit the text between <h1> and </h1> to name the animal you have created with images, taking great care not to remove the angle brackets ("<" and ">").
+Edit the text between `<h1>` and `</h1>` to name the animal you have created with images, taking great care not to remove the angle brackets ("<" and ">").
 
-Edit the between <p> and </p> to give a one sentence bio for your creature.
+Edit the between `<p>` and `</p>` to give a one sentence bio for your creature.
 
 (If you are stuck for ideas, favorite food is a good one.) 
 
