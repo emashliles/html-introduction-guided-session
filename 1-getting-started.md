@@ -19,7 +19,7 @@ Install Goggles by dragging the pink bar onto your bookmarks bar. You can open t
 
 You should see "X-Ray Goggles" appear as a link on your bookmarks bar.
 
-You can test it is installed correctly by opening a new tab, navigating to [example.com](example.com) and clicking the 
+You can test it is installed correctly by opening a new tab, navigating to [example.com](http://example.com) and clicking the 
 X-Ray Goggles link on your bookmarks bar. This should activate X-Ray Goggles on the webpage. 
 
 If it is correctly installed, you should see brighly coloured boxes appear as you move your mouse around.
