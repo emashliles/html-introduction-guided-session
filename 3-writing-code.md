@@ -100,7 +100,37 @@ This is the `<p>` tag, which stands for paragraph.
 
 ## Step 8
 
-Using what you learned to add some more courses to your menu. 
+We are now going to add a picture to our menu. 
+
+Underneath your `<p>` tag, add the following code:
+
+```
+<img width="500" src="https://upload.wikimedia.org/wikipedia/commons/8/85/22_West_-_dining_table.jpg"/>
+```
+This should add an image to your menu. 
+
+The image tag, as you can see, is a little different to the other tags we have seen so far. 
+
+Instead of having two corresponding tags with an opening tag and a closing tag, it self closes at the end. 
+
+Inside the tag, you are also setting a width and a source (src). The src is telling the browser the location on the web
+of the image you want to appear. Try pasting the address in a new tab to see what happens. 
+
+The width is to let the browser know how large the image to be displayed is. Try changing it (or removing it) to see what happens. 
+
+This image comes from wikimedia commons, which has open source media which is free to use. Visit wikimedia and try finding a 
+different (free to use) picture. 
+
+If you are stuck for ideas, here is a list of more tables.
+
+https://commons.wikimedia.org/wiki/Category:Dining_tables
+
+## Step 9
+
+Using what you learned to:
+
++ Add some more courses to your menu.
++ Add some more images - maybe decorative or one for each course.
 
 Congratulations, you wrote some code!
 
